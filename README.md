@@ -22,6 +22,31 @@ Here is a list of previously used tools & technologies:
 - **[Cucumber][cucumber]**, **[RSpec][rspec]**, **[Selenium Webdriver][selenium]** and **[Waitr][waitr]**
 
 
+## Certifications
+
+<div style="display: flex;">
+<a href="https://www.credly.com/badges/21cfccd0-69d1-4ff1-a733-aa7695eec714/public_url" target="_blank" rel="noopener noreferrer">
+    <img label="Oracle Certified Professional Java 8 SE Programmer" width="150" height="150" src="./badges/oracle-certified-professional-java-se-8-programmer.png" />
+</a>
+
+<a href="https://www.credly.com/badges/4cf1c26a-13d6-4826-960b-a88730fadb52/public_url" target="_blank" rel="noopener noreferrer">
+    <img label="Oracle Certified Associate Java 8 SE Programmer" width="150" height="150" src="./badges/oracle-certified-associate-java-se-8-programmer.png" />
+</a>
+</div>
+
+<div style="display: flex; margin-top: 10px">
+<a href="https://www.credly.com/badges/3df6bc98-28c9-4328-81ae-cc741f12ec42/public_url" target="_blank" rel="noopener noreferrer">
+    <img label="AWS Certified Solutions Architect – Associate" width="150" height="150" src="./badges/aws-certified-solutions-architect-associate.png" />
+</a>
+</div>
+
+<div style="display: flex; margin-top: 10px">
+<a href="https://www.credly.com/badges/ab30fa45-185b-44e3-b284-31977d15a88a/public_url" target="_blank" rel="noopener noreferrer">
+    <img label="AWS Certified Cloud Practitioner" width="150" height="150" src="./badges/aws-certified-cloud-practitioner.png" />
+</a>
+</div>
+
+
 ## Employment
 
 I'm currently a working for [Sky UK][sky] on the award winning [Sky Q][skyq] set top box as a Senior Software Developer.
