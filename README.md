@@ -52,7 +52,7 @@ Here is a list of previously used tools & technologies:
 
 ## Employment
 
-I'm currently a working for [Sky UK][sky] on the award winning [Sky Q][skyq] and [Sky Glass][sky] products as a Senior Software Engineer.
+I'm currently a working for [Sky UK][sky] on the award winning [Sky Q][sky] and [Sky Glass][sky] products as a Senior Software Engineer.
 
 ## Where to find me
 
