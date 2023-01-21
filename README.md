@@ -1,6 +1,6 @@
 # Welcome
 
-Hello, I am Luke Hackett, and I live in London, UK. I love to create extensible, functional, simple software solutions to various problems - and I often do it for fun! I have been developing software since the mid-2000's, and some of my interests can be found on this page.
+Hello, I am Luke Hackett, and I live in Reading, UK. I love to create extensible, functional, simple software solutions to various problems - and I often do it for fun! I have been developing software since the mid-2000's, and some of my interests can be found on this page.
 
 
 ## Tools & Technologies
@@ -46,15 +46,20 @@ Here is a list of previously used tools & technologies:
 </a>
 </div>
 
+<div style="display: flex; margin-top: 10px">
+<a href="https://www.credly.com/badges/9e2fa46e-0ae8-4222-b2c8-51a47db65f4c/public_url" target="_blank" rel="noopener noreferrer">
+    <img label="Professional Scrum Master I (PSM I)" width="150" height="150" src="./badges/professional-scrum-master-psm-1-badge.png" />
+</a>
+</div>
 
 ## Employment
 
-I'm currently a working for [Sky UK][sky] on the award winning [Sky Q][skyq] set top box as a Senior Software Developer.
+I'm currently a working for [Sky UK][sky] on the award winning [Sky Q][skyq] and [Sky Glass][sky] products as a Senior Software Engineer.
 
 ## Where to find me
 
 - Ask me about anything and everything.
-- My website: [Luke's Website & Blog](https://lukehackett.comharshblog.xyz)
+- My website: [Luke's Website & Blog](https://lukehackett.com)
 
 <br />
 
@@ -62,7 +67,6 @@ I'm currently a working for [Sky UK][sky] on the award winning [Sky Q][skyq] set
 
 
 [sky]: https://sky.com
-[skyq]: https://www.sky.com/shop/tv/sky-q/
 [html]: https://html.spec.whatwg.org/multipage/
 [typescript]: https://www.typescriptlang.org
 [css]: https://www.w3.org/Style/CSS/Overview.en.html
