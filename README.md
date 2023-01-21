@@ -38,9 +38,7 @@ Here is a list of previously used tools & technologies:
 <a href="https://www.credly.com/badges/3df6bc98-28c9-4328-81ae-cc741f12ec42/public_url" target="_blank" rel="noopener noreferrer">
     <img label="AWS Certified Solutions Architect – Associate" width="150" height="150" src="./badges/aws-certified-solutions-architect-associate.png" />
 </a>
-</div>
-
-<div style="display: flex; margin-top: 10px">
+    
 <a href="https://www.credly.com/badges/ab30fa45-185b-44e3-b284-31977d15a88a/public_url" target="_blank" rel="noopener noreferrer">
     <img label="AWS Certified Cloud Practitioner" width="150" height="150" src="./badges/aws-certified-cloud-practitioner.png" />
 </a>
