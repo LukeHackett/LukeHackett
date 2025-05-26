@@ -2,17 +2,16 @@
 
 Hello, I am Luke Hackett, and I live in Reading, UK. I love to create extensible, functional, simple software solutions to various problems - and I often do it for fun! I have been developing software since the mid-2000's, and some of my interests can be found on this page.
 
-
 ## Tools & Technologies
 
 Here is a list of tools and technologies that I use daily:
 
-- Front-end development using **[HTML][html], [TypeScript][typescript], [CSS][css], [SASS][sass]** and sometimes **[LESS][less]**
+- Front-end development using **[HTML][html], [TypeScript][typescript], [ReactJS][react], [CSS][css], [SASS][sass]** and sometimes **[LESS][less]**
 - Backend development using **[Java][java]** and **[Spring Boot][spring]**
 - Storing data with **[MySQL][mysql]** and **[Redis][redis]**
-- Developing code with **[Intelij][idea]** and **[TextMate][mate]**
+- Developing code with **[Intelij][idea]** and **[Visual Studio Code][vscode]**
 - Developing code on **[MacOS][macos]** and **[Ubuntu][ubuntu]**
-- CI/CD of applications with **[Jenkins][jenkins]** and **[Travis][travis]**
+- CI/CD of applications with **[Jenkins][jenkins]** and **[Github Actions][gha]**
 - Hosting applications with scalable cloud architecture using **[Docker][docker]**, **[Kubernetes][k8s]** and **[AWS][aws]**
 
 Here is a list of previously used tools & technologies:
@@ -35,7 +34,7 @@ Here is a list of previously used tools & technologies:
 </div>
 
 <div style="display: flex; margin-top: 10px">
-<a href="https://www.credly.com/badges/3df6bc98-28c9-4328-81ae-cc741f12ec42/public_url" target="_blank" rel="noopener noreferrer">
+<a href="https://www.credly.com/badges/122f612c-7f85-479c-98bc-23909a99f88b/public_url" target="_blank" rel="noopener noreferrer">
     <img label="AWS Certified Solutions Architect – Associate" width="150" height="150" src="./badges/aws-certified-solutions-architect-associate.png" />
 </a>
     
@@ -52,7 +51,7 @@ Here is a list of previously used tools & technologies:
 
 ## Employment
 
-I'm currently a working for [Sky UK][sky] on the award winning [Sky Q][sky] and [Sky Glass][sky] products as a Senior Software Engineer.
+I'm currently a working for [Sky UK][sky] on the award winning [Sky Q][sky] and [Sky Glass][sky] products as a Principal Software Engineer.
 
 ## Where to find me
 
@@ -67,6 +66,7 @@ I'm currently a working for [Sky UK][sky] on the award winning [Sky Q][sky] and 
 [sky]: https://sky.com
 [html]: https://html.spec.whatwg.org/multipage/
 [typescript]: https://www.typescriptlang.org
+[react]: https://react.dev
 [css]: https://www.w3.org/Style/CSS/Overview.en.html
 [sass]: https://sass-lang.com
 [less]: http://lesscss.org
@@ -75,11 +75,11 @@ I'm currently a working for [Sky UK][sky] on the award winning [Sky Q][sky] and 
 [mysql]: https://www.mysql.com
 [redis]: https://redis.io
 [idea]: https://www.jetbrains.com/idea/
-[mate]: https://macromates.com
+[vscode]: https://code.visualstudio.com
 [macos]: https://www.apple.com/macos/
 [ubuntu]: https://ubuntu.com
 [jenkins]: https://www.jenkins.io
-[travis]: https://travis-ci.org
+[gha]: https://github.com/features/actions
 [docker]: https://www.docker.com
 [k8s]: https://kubernetes.io
 [aws]: https://aws.amazon.com
