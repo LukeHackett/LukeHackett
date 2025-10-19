@@ -7,7 +7,7 @@ Hello, I am Luke Hackett, and I live in Reading, UK. I love to create extensible
 Here is a list of tools and technologies that I use daily:
 
 - Front-end development using **[HTML][html], [TypeScript][typescript], [ReactJS][react], [CSS][css], [SASS][sass]** and sometimes **[LESS][less]**
-- Backend development using **[Java][java]** and **[Spring Boot][spring]**
+- Backend development using **[Java][java]**, **[Kotlin][kotlin]** and **[Spring Boot][spring]**
 - Storing data with **[MySQL][mysql]** and **[Redis][redis]**
 - Developing code with **[Intelij][idea]** and **[Visual Studio Code][vscode]**
 - Developing code on **[MacOS][macos]** and **[Ubuntu][ubuntu]**
@@ -71,6 +71,7 @@ I'm currently a working for [Sky UK][sky] on the award winning [Sky Q][sky] and 
 [sass]: https://sass-lang.com
 [less]: http://lesscss.org
 [java]: https://www.java.com/en/
+[kotlin]: https://kotlinlang.org/
 [spring]: https://spring.io
 [mysql]: https://www.mysql.com
 [redis]: https://redis.io
